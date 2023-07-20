@@ -1,0 +1,2 @@
+git add: stages specified files
+git commit "<message>": make commits w/ a message 
